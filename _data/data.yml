@@ -123,7 +123,7 @@ certifications:
             - Convolutional Neural Networks
             - Sequence Models
             - Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
-        - name: CS188.1x: Artificial Intelligence
+        - name: "CS188.1x: Artificial Intelligence"
           start: 2015
           end:
           organization: BerkeleyX
